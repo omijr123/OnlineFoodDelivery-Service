@@ -6,6 +6,9 @@ Khuda Lagse - Online Food Delivery System  A Java Swing/FX and MySQL-based food 
 ![pic1](https://github.com/user-attachments/assets/f49acfbd-6e5b-43c5-b08f-c2e515512cd0)
 
 
+![pic2](https://github.com/user-attachments/assets/7e9417ce-c5e4-45a2-a088-99ec2b2ae851)
+
+
 
 Here it is an Java based project. In 2nd year 1st semester in OODP-II course I made this project with my classmates. 
 
